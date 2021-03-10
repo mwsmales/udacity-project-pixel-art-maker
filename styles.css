@@ -16,6 +16,11 @@ h2:first-of-type {
     margin-top: 0.5em;
 }
 
+#guidanceText {
+    margin: 1em 0 0 0.5em;
+    color: grey
+}
+
 table,
 tr,
 td {
